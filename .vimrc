@@ -9,3 +9,6 @@ Plug 'jonsmithers/vim-html-template-literals'
 Plug 'pangloss/vim-javascript'
 
 call plug#end()
+
+syntax on
+colorscheme slate
